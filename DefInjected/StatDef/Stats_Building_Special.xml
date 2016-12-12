@@ -13,20 +13,20 @@
 	<TrapSpringChance.label>шанс срабатывания</TrapSpringChance.label>
 	<TrapSpringChance.description>Шанс того, что ловушка сработает, когда на неё наступят.</TrapSpringChance.description>
 
-	<ResearchSpeedFactor.label>фактор скорости исследования</ResearchSpeedFactor.label>
+	<ResearchSpeedFactor.label>коэффициент скорости исследования</ResearchSpeedFactor.label>
 	<ResearchSpeedFactor.description>Скорость исследования умножается на это значение.</ResearchSpeedFactor.description>
 	<ResearchSpeedFactor.parts.1.customLabel>Чистота комнаты.</ResearchSpeedFactor.parts.1.customLabel>
-	
-	<MedicalTreatmentQualityFactor.label>фактор качества лечения</MedicalTreatmentQualityFactor.label>
-	<MedicalTreatmentQualityFactor.description>Коэффициент качества медицинской помощи умножается на это значение.</MedicalTreatmentQualityFactor.description>
 
-	<ImmunityGainSpeedFactor.label>фактор скорости иммунизации</ImmunityGainSpeedFactor.label>
+	<MedicalTreatmentQualityFactor.label>коэффициент качества лечения</MedicalTreatmentQualityFactor.label>
+	<MedicalTreatmentQualityFactor.description>Уровень качества медицинской помощи умножается на это значение.</MedicalTreatmentQualityFactor.description>
+
+	<ImmunityGainSpeedFactor.label>коэффициент скорости иммунизации</ImmunityGainSpeedFactor.label>
 	<ImmunityGainSpeedFactor.description>Скорость иммунизации умножается на это значение.</ImmunityGainSpeedFactor.description>
 
-	<WorkTableWorkSpeedFactor.label>фактор скорости работы</WorkTableWorkSpeedFactor.label>
+	<WorkTableWorkSpeedFactor.label>коэффициент скорости работы</WorkTableWorkSpeedFactor.label>
 	<WorkTableWorkSpeedFactor.description>Скорость работы умножается на это значение.</WorkTableWorkSpeedFactor.description>
 
-    <EntertainmentStrengthFactor.label>фактор развлекательной способности</EntertainmentStrengthFactor.label>
+    <EntertainmentStrengthFactor.label>коэффициент развлекательной способности</EntertainmentStrengthFactor.label>
     <EntertainmentStrengthFactor.description>Показывает, насколько эффективно этот предмет развлекает людей, и сколько радости они получат от его использования.</EntertainmentStrengthFactor.description>
-	
+
 </LanguageData>

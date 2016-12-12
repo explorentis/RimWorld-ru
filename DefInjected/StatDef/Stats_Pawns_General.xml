@@ -14,7 +14,7 @@
 	<ToxicSensitivity.label>чувствительность к токсинам</ToxicSensitivity.label>
 	<ToxicSensitivity.description>Множитель скорости накопления токсинов в организме персонажа.</ToxicSensitivity.description>
 
-	<GlobalLearningFactor.label>общий фактор обучения</GlobalLearningFactor.label>
+	<GlobalLearningFactor.label>общая скорость обучения</GlobalLearningFactor.label>
 	<GlobalLearningFactor.description>Общая эффективность обучения для всех навыков.</GlobalLearningFactor.description>
 
 	<EatingSpeed.label>скорость поглощения пищи</EatingSpeed.label>
